@@ -56,5 +56,5 @@ install_manifest.txt
 *.dSYM/
 
 # Idea folder
-.idea
+.idea/
 
